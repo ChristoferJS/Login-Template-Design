@@ -1,7 +1,7 @@
 # Login-Template-Design
 Simple login form design. Made this template in 10 minutes. 
 
-** Note: This template doesn't have the right components to fully function. **
+**Note: This template doesn't have the right components to fully function.**
 
 ## Usage:
 ```
